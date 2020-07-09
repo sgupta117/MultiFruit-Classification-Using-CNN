@@ -51,8 +51,20 @@ def model_predict(img_path):
     if result[0][0] == 1:
         return "This is a Banana"
     if result[0][0] == 2:
-        return "This is an Orange"
+        return "This is an Betroot"
     if result[0][0] == 3:
+        return "This is a Guava"
+    if result[0][0] == 4:
+        return "This is a Lychee"
+    if result[0][0] == 5:
+        return "This is a Orange"
+    if result[0][0] == 6:
+        return "This is a Pear"
+    if result[0][0] == 7:
+        return "This is a PineApple"
+    if result[0][0] == 8:
+        return "This is a Pomegranate"
+    if result[0][0] == 9:
         return "This is a Watermelon"
 
 
