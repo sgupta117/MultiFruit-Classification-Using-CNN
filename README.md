@@ -5,7 +5,7 @@
  https://www.kaggle.com/moltean/fruits/version/44
   
  This is a simple multicategory prediction model which predicts the kind of fruit based upon the image we provide the model as input.
- It used the "softmax" function to predict the fuit category here.
+ Here i used the "softmax" factivation unction to predict the fruit category here.
  
  Sample Screenshot of the model prediction:
  
