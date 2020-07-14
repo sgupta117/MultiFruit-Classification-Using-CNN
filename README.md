@@ -10,3 +10,6 @@
  Sample Screenshot of the model prediction:
  
  ![fruit_pre](https://user-images.githubusercontent.com/61824566/87220584-b222a080-c382-11ea-8491-41cc6c6b9f0e.PNG)
+ 
+ - Glimpse of GUI created by TKinter: 
+ ![GIF](readme_resources/Fruits_Classigfier.gif)
